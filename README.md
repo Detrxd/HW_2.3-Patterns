@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6c49rbmoo9tj8qht?svg=true)](https://ci.appveyor.com/project/Detrxd/hw-2-3-patterns)
